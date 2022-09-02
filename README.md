@@ -1,0 +1,2 @@
+# Cart-mart
+CART MART is basically a CRUD themed website which is used to store your favorite list of items from all shopping websites at one place in a cart structure using card format.  Basically this website uses the concept of LOCAL STORAGE in which the user data is stored in machine storage itself rather than using some SQL or NO-SQL databases or any cloud storage.  The main aim of creating this website is to demonstrate the practical use of local storage concept and the advantages of using it to store and retrieve data.
